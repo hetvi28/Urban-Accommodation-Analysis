@@ -53,7 +53,23 @@ This capstone EDA project employs meticulous data analysis techniques to explore
 
 
 
-## **The purpose of the analysis** 
+## Business Questions Answered:
+
+- What determines accommodation pricing in NYC?
+- Which neighborhoods offer the best value for travelers?
+- What features drive higher booking rates?
+- How can hosts optimize their listings to maximize revenue?
+- What are the seasonal trends in urban accommodation demand?
+- Which property types are most profitable?
+- What amenities do guests value most?
+- How does location impact pricing and occupancy rates?
+
+## Business Impact:
+
+- Helps hosts set competitive pricing strategies
+- Guides investors on which neighborhoods to target
+- Assists travelers in finding optimal accommodations
+- Informs hospitality businesses about market trends
 
 ## **The purpose of the analysis**
 
